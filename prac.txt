@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 practice : home office
+=======
+practice : home 222222`
+
+>>>>>>> 6f24c16781f44c4e6c607a712013521130585825
